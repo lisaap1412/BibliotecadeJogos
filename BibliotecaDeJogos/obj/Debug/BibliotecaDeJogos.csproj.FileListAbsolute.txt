@@ -1,0 +1,8 @@
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.exe.config
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.exe
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\bin\Debug\BibliotecaDeJogos.pdb
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csproj.AssemblyReference.cache
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csproj.SuggestedBindingRedirects.cache
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.csproj.CoreCompileInputs.cache
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.exe
+D:\ETE\34DS-M 2022\MatériasTécnico\LinguagemDeProgramação\BibliotecaDeJogos\obj\Debug\BibliotecaDeJogos.pdb
